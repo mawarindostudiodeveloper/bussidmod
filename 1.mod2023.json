@@ -28,6 +28,294 @@
     }
   ],
    "DATA":
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Super High Decker Avante",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1620.jpg",
+         "link_mods": "https://download2390.mediafire.com/iqmeweytwszgUp1Wrcr20oEdJiJ4F9UlGqN7FrRa3K6jNP-uRene6UhtN63bYelUtl_D5JWwTlt7Fgp0odg8LN043AXrR8x-HHaeOqZBVziUktn2Jq_SOOKsmyNAyj29r7vcoRGKsd2h1I-rYTw_fCbLCzFXfXo8CYS5wPO_WtZx1Oo/yjkvhpvn9rnoljf/AVANTE.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/g8aetbml8xras10/Avante_SHD_STJ_DRAKA_By_Jeffry_Bussid.png/file"
+      } ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Bus Dream Coach",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1621.jpg",
+         "link_mods": "https://download2365.mediafire.com/psgkc3pv4bvgZoXzWjc7p8tgcaVABrmho48eeKNORkTmP9-TYASHDjZQFuy3QwYVgbWhwIN6av6zeS9rPmHFRWAbw2kzmFVi19bR8V61_0ntVfbCtDOgzfNfERd-opX9U8Kn0OZZ_D0E20VqXbPSuLas6T7T_vIKaXwRSDwcIPvMQkU/o16qljrc3a92vp1/DREAM+COACH.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/v1svxidgzl3asmv/STJ_Draka_Dream_Coach_by_Blahbloh.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 2 Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1622.jpg",
+         "link_mods": "https://download2338.mediafire.com/0szzh38qh4kgEhDtqtnD2aX2KSc_BfwCdXe5SuRZomUg3zMjA29YvDMLk-klMWuSso2dZuEe4Et3U14L15i8hU9AHkWSvFmH24XhA3Y4m5FYIDtBGmkVjhb-Soc6-uCoBNU7Z1X1d3DbmZjhSBiRRRCq38MHA0PVcF8Cd1IQobAMdmE/q1pba2h7c3f9cs1/JB2+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/s5d8vdv96sqggce/IGUAZU_V.10_FREE_USER.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 2+ SHD Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1623.jpg",
+         "link_mods": "https://download2280.mediafire.com/fskg1e71nhjgek8Me3EP1uGm2iirfYT5gGAgsfxKifbo-BtCdMrKP8xMYU-xcXMZTEsyTCgqK2vrTvLgP0G1fd3XHLmCswutRCaZkDFK0pl2vNno7ZlYgWEWNU8vyRPPzPqOf0UOVzxAuHyNynemdY78q2-poKfw5O6NTl4Kqxc04LA/1ps9e7vbmu17a0t/JB2%2B+SHD+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/tkur3vgf7i3jogw/STJ_Iguazu_SHD_by_Blahbloh.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3 MHD Scania",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1624.jpg",
+         "link_mods": "https://download2391.mediafire.com/hs42kcq4n0ugkZUgaCJPllK1Th4_py6YMiT6TA1NDNuH-mYV1u5WinKhRowtThy_86kttdKbnZL_d9UlP2s9hcEP1Bi5v2qMoLpY1BTc5kWp86W3M3b1fKrCryOmAyaajDxJjSjPsQRt_9ZCzTClDAIsXGg51GuLQ5BQaA8VvWeOjUs/9bpbwtegpf1n2t7/jb3+mhd+scaniaHANA+HANIFAH.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/n6moxfyl3o0ho3d/Stj-070-CULLEN%25282%2529.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3+ Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1626.jpg",
+         "link_mods": "https://download2338.mediafire.com/fj0mcxhrsvigLX5tjNwxwzr5gN6YjKzG4R7-wK8BCwJ-EhDQIk5dbal7t6IB9U9ImN-9chcK9nNt4BSncsLc1DKuxtVRNTuivgM5iYK8FL9-qMW9OKYZT_YIcZ0TbskTu_igg43k37ALCxlhK1eyymFUS1OaFgP8Z6svzxPrLFZM3xk/anrycqz1twin7na/JB3%2B+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/99mt1f60yzjsn6e/SHANKARA_BONEK_STJ_JB3_HINO_RK_BY_GARASITUBE.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3+ Scania K360",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1627.jpg",
+         "link_mods": "https://download2261.mediafire.com/i76mo62stn6gTYD0LOpl23bIXGmCLf0I6kFfTMa_0eGOVTTUOOLGYVOaJkcf-2MguMDAcrWuUoNNc1HibQpl25W36e5MpGlD_A3jh8l5Qm2NLsGpUyCIDTp9sFOBILI_7cgjvaYKDt0L1uHArZjQjRZ8jncqRR9zQw6RXrP0PRkTxKg/vm4dqwnpxfqelfp/JB3%2B+SCANIA+K360.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/zi1fytmcq3h1ecg/JENNA_STJ_071_NON_BONEKA_JB3_SCANIA_K_360_IB_GEN2_BY_GARASI_TUBE.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3+ SHD Scania Non Facelift",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1628.jpg",
+         "link_mods": "https://download2268.mediafire.com/0a8119eoykxgw57aT_t9lxTmMTsemubdE0q5rh_Mot1Lak7FHzYaJifi0TpgZk9adfCAWsjNIPsmBdfBsABaIYV9KPyB3goZGH7hHzArrlu-zkoAmKwnO9qbESwDV0FAhEI2zcQB7o4BQefHTyfaDe16HHIdnNc2e5-NzraDDGR_m0U/6zh8le9uq2vlldp/JB3%2B+SCANIA+NON+FACELIFT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/od330ij70wj56yt/STJ_RHUDOUR_MODJB3%252B_LIVBYSIR.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod JB3+ SHD Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1625.jpg",
+         "link_mods": "https://download2325.mediafire.com/i5440hpro80gWSEotiUHztlInfRh1G4-SVyXjtxDJatBR2XxCtRIMZGSnHwXCAxse_p0Jj1TsISDYPALBFj_EGiamPAmxiNZMe2dA-lPUEgkb1J89J5v8-Khc_e71tFes68M4MhNxCCbxhrkeSLIZWy_Mmg87JEAfrx6fo8X3dpF290/z5o6k8e4cg0tl4d/JB3%2B+SHD+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod JB3+ SHD Non Facelift ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3796.jpg",
+         "link_mods": "https://download2391.mediafire.com/sglzuqi8xvfgexmfPq_vXAoLhbVPc1cp0GPjAeFvsN-nya-omJV5z-YGJS7KPyy2OSJWrnOz3P-xI0CVHL6WLKXL9W32oupm5W3EzFIU-isBqW6469-hV1b2zZGIo6PNEYG2UD9OPlKt-Bk3v4dRqR1xwo_FQ6eVpDwPFIm318mjAe4/9vv5k3cdfsxc25y/JB3%2B+SHD+NON+FACELIFT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/rxctdcmmxjoyb2h/Libery_Black_pink_Hino_As__Fm_by_Nb_livery_%2526_Cah_Ndoreng_%25281%2529.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3+ Tronton Volvo B11R",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3797.jpg",
+         "link_mods": "https://download2392.mediafire.com/9qfc2qjt575gcef--qvInRT7FNThm6QDOEZsSX16fZMpROyosA6qUQS1M1W6XJ18Ii-L_uCkY8oHtY-hkFBBh4ejDhZmm8toMoBlbODj5yinV4YG46_6lWTwaIo-TI9t_LJthXApZKDj2NdnEj13CR6sNdvz_oo8bfelRFOSjMaSNDc/it9l5288rhz77xz/JB3%2B+TRONTON+VOLVO+B11R.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/m06o3ve66fekaue/STJ_ARVOOT.png/file"
+      }  ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Jetbus 3+ Ultra High Decker ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1631.jpg",
+         "link_mods": "https://download2389.mediafire.com/1inycsy1b2wgLhdOKeM6KBHfWLq9r2lBtVjMgO2T4RZatjgWgyorFrg0Kq8jkd4d-tmVX7keSqwchoYukQ5IumPpGar1_TB4QuV-VSWKRSRA08bs9cII4grWe16Vmvnn4sEMCAj_exnovL7JMYAshP3dQDCPUm87CVr-byBN3Kdl-us/lffqbgt6vd1xxrx/JB3%2B+UHD.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/frotgvk0l57qs7v/RUBYA_098_BONEKA_NEW_STIKER_JB3_UH_MH_BY_GARASITUBE.png/file"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Mod Ultra High Decker",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1632.jpg",
+         "link_mods": "https://download2339.mediafire.com/utim79cgcmtg-sgbktY1HK_DFNeNxWYvx4BxYOdFxbGjzXAdasThb8Z8ttAQWs-rQ2Np-LdsR6CXL9P_3e5B33wknJMzzptOvShCymIXOmWrDISSb_Qb2X0uKY7z1AeCa82KBd5T1Q1rcdPKIUpi5d_Byq-hNZGBxh5EL-NuNUA95Ao/n0df5h0r4dpnxy9/UHD.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/vml9dx4zy19whmb/STJ_Anno_UHD_Mercy_Blahbloh.png/file"
+      } ,
+	{
+         "id": 2,
+         "category":"Bis",
+         "title": "Harapan Jaya Avante SDD",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3862.jpg",
+         "link_mods": "https://download2284.mediafire.com/hysvrb0s8wyg2JS0TE2zAsryDVU2TfuevNRZhyqCeiq7mw4s_vOt1jGQImqA2-SrbNt84OoAqnz8DUW8_0evEFcBg8JFsBnkHLgqrLizoS2TOL9MkDBHZj9POGk7PP0XI9IB1rvkELz11Rs4mfWHDPWTUeajybVfWKRxmufnAaHbuEc/859hkjy30df431t/AVANTE+D2%282%29.zip",
+         "link_livery": "null"
+      },
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Tingkat Nusantara Conqueror",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3863.jpg",
+         "link_mods": "https://download2391.mediafire.com/3xvdjequjl2g5p01oiuhkQ398b7vXVUnqP6YsmzTqFtWE4Ddh3II42sEihARRk84v1dhH0jHG6YgKkJ5KxylkjwIstYfaSgLuobFckio2yAqB8gjQ0tI5E9YQUmzbBauTnDEjrN7fHm04DQ2Z5i8afEFsSmWU3tA7Wm39cEwOxK79Hc/ehcui9liawvd41r/MAN+Conqueror+Nusgem+by+Parzival+Mods+-+Javastech.com.bussidmod",
+         "link_livery": "null"
+      } 
+ 	,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Super Double Decker Voyager JB3+",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3863.jpg",
+         "link_mods": "https://www.mediafire.com/file/ehcui9liawvd41r/MAN%20Conqueror%20Nusgem%20by%20Parzival%20Mods%20-%20Javastech.com.bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Jetbus 3+ SDD",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/437.jpg",
+         "link_mods": "https://download2283.mediafire.com/2ci2yrmfkbagFB601c6dW5mY7RLqy0wjV4Qs5iGsWfB0OdM_FFPW6F5nREjDTAFqNwH6KhrnwEDVSMakm_a1Zyw1vp6jsNcqZ8FWVA7-CleNnNxiFItWvaJMTUSqnsCZ75spRF439vDzKb4kepVvVF5p1jG0tOPB4D97eN0rMrDyzT0/1piha6lmxl3k4q2/JB3%2B+SDD+SHARE+BY+JODS+TV%282%29.zip",
+         "link_livery": "null"
+      },
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Tingkat JB2+ Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/381.jpg",
+         "link_mods": "https://download2280.mediafire.com/qe3idajoa3wgTkTAvXGQ3dRL845vtZjy3JQ3ESC9dh_TfozmKeWI9i6di4bPB3CFPCNTFTNbDutsnkgu2TZFGSrSR_s9lSS988DpC8WKQFrXgcb2-pLrEsia08G5y3ifvcu9QA6mNuuH5JSysWtT6mzAnoBdsXAbsgEJ8rR6WHHuHrA/n1mr1scj6m3g49e/JB2%2B+SDD+SHARE+BY+JODS+TV%283%29.zip",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Avante D2 Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/385.jpg",
+         "link_mods": "https://download2283.mediafire.com/ejyzzugstl9gHgESNKj7bDjZqFX6iu9kZVdwDKFXCnQ7lhIh-iKjdSustceuwOajTGpk6TwC5ykxOI8uyjTWq5m9lUdxcYu3fTj1FtMfnoqCLK9gyMHlQo3XAR7YAIe9dOW72opI-4B3YIXqVj5EyQHtcZtlLCGRskPdneyzv_Buhyk/pjs6xay8strma9p/AVANTE+D2%283%29.zip",
+         "link_livery": "null"
+      },
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Pandawa 87 Jetbus 3+ SDD Voyager",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/1056.jpg",
+         "link_mods": "https://download2392.mediafire.com/nywdun2106ggOP6jBxaQPV30AI0NvhX-ESJh9UZnvXZFWppxmPg9UYMUuuSFumBUEiYd68JuPDGwm0nGvUoQtPdolMVtFtz4g5FkDx6TcOn1_SGEktmxVkM_W9VRsFuZZwKmcMGe_uwlQNWfxzbUM0q89mWtseN37o0KDB1j3Sn-jH0/vd926g4wcotbtly/JB3%2B+SDD+VOYAGER+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/9v6ctjepk899ml3/Pandawa_SDD_by_Blahbloh.png/file"
+      },
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Laju Prima SR Double Decker",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/174.jpg",
+         "link_mods": "https://download1654.mediafire.com/psoi6us5flmgfJFax37ea_gROyILCjHKjXEN4roNZhbrsx-s_ZHBLJoBftBZDdlHr69cRU2KbptHouzBypuuwc93QMpbAByJoS3iS0_R9TmVjVz2HQiSsZ3rsAYfRBG2DLJqQkqryMZzmZgQMiT1cmEFFTF3vUpLMWqHFXjbsDPqzPE/0578y9v0klvbpo8/MOD+SR2+DOBEL+DECKEE.zip",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Double Decker Gunung Harta",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/393.jpg",
+         "link_mods": "https://download2276.mediafire.com/oxqix1q7fjdgMz9dCQi4I6xf_eA0acW44lirhav2q8Iz62b7VKuPyf9ehPghxYvzjgYBYUKGbwx1l3by5bE4IqJCa2fVBNfNudV95i8TaDkx_OP4tLJvkWb7-zY0-NRs5fJ9u7rKpodvoNQ8vtsXvRzBEEI33pcDfUMWU_bozqrDJG4/73jv23k0jnfddtx/SDD+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,{
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Primajasa Scorpion X Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-10-17-00-57-06_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2261.mediafire.com/7i2y0tmrw1dgrtgeSJdb5sLXMoz1y_cAm4hI0LT3iY3lurSPdknB6IjpWuo4XTzASsl3RbA14KtoPtB3fpNEFmF5y5Ko_UG__jQZW6p7qK0lY7Ettp6d8eNbeVgF8v2Fl8uAFfQOBI-KDFm0IJxtYWLeyTGd7qQqI1NKZoTOMPzez8w/qs86ohbdzq0mnbp/AVANTE+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Damri Evonext Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-13-12-20-12-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2390.mediafire.com/8vduqd4745ggnlRlme8TcstdoQ76A_sJMj_tvuYkESuPBoeyGAaOFT7YOLtAu-Tmb3G_vKVuk6k94rTvWZa4qynPEq2fPTAAms21TxYppujN1kdKi2DP2AgRDRibj_4Vlivabv4jD3gI74nNbQzRcy-K36gl-hmD8gEH22u4oDEtA0s/6up22bl940c4t04/2.+EVONEXT+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download1077.mediafire.com/hexkis7sj5pgTQ6TCzQg6onQo-v3iGpg7iKh-FCOfz3IBwDgYpZHosv2WNdvn_q0et0xH5bHJZ4SqwHWHRVZdqFv9sa8x7jXcek4VW7tfx0WnD47MC5UU1bIPV_ye_wAZOA7VvNaRHYXPrgQrPQ__Ud1v3P8KfdiuGc013rxvTPpg_k/qy7ev611lqhh822/2.+Damri+PPD+Hammam+JM.png"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Kramat Jati JB3+ Mercy O500R Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-24-10-46-15-14_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2440.mediafire.com/c8fzxrwo4vug5_ltdSF6ig8bFd_2YzkzMAkPCJXwNoToy0z5BmDvNB8PyNUltpkrNty-V4ZNK6z5s9hrsOShp2IKKSzDm2NGK9fnP95oTi5oq1XT50SSAz8UlA7fD8BGu95bdOuG5E0l2T_3kyBAP8YdbgsdE_PevVAGnIehEbIqAsE/yr13xffgb96fwx6/4.+JB3%2B+MERCY+0500R+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download1072.mediafire.com/uz91piu92lug-ApOe_Jiu3CNduyFWm35QMLoeznv2RdEBUYx3h4xga9KEJwUzqb4bYtdm3TfdE55UGmjY7oUuIZUc10MfPzcDvbFRdQjrY37srTYvA7WOwNxg7VQura-JaejbCSgdvBUoH70lt0al-LtuUUjHfsvSUFx5sWXRDY1we8/46cf4r8ccyrkiql/4.+KRAMAT+JATI+JB3%2B+MERCY+O500R+-+BY+LB+SPEEDq.png"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Borlindo Evolander Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/12/2.-Screenshot_2021-12-16-10-26-04-52_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/vhf6m24jxlogwZyRu1pJbLTle6ZqDBdmLk8SwFGyX5jqZ6MY9_cJr18lPf1w5Mi0ShPK9_xtX5q0YS1JcqBxIf0nJcVEKJDez0xl-jTSuSo7SXST_Kyd3L7MViLjxcGjG_RkIHljanhqueqazgQpkfNqYH00zz3gsZnaX4hT4UE9uAc/7r5jn81i8uz0gyi/2.+EVOLANDER.bussidmod",
+         "link_livery": "https://download1077.mediafire.com/28bkjs1c5iygTT_wo7HbhWMcgRN1uj1teKTg8-haC6VitKvdHsoi7cwTPgo4ZTkm9fmsDvnD9EdTCSy2Ix2FXGFaplaR5nhTF_wu7hYDituyTLSvMDKfxMDICB1j5Us-PQoYIyrmTvOnLlYFq2gYkkgw8ol271sc_am_Q3RWj9I5bKw/t9sv1t5cr44343f/2.+Livery+Borlindo.png"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Borlindo SR2 Double Decker",
+         "image": "https://modbussidterbaru.com/bus-borlindo-sr2-double-decker/",
+         "link_mods": "https://download2283.mediafire.com/q7ahuyqvsthgCUv7DNlbbfEt1-SjQZRAtSIs4QVl_ErsIO8p8LRX2-dt-9p-5yLlPvYhwgmCq-QKySLwjWoAE_x4_XRfdnjjcYfxkS7Wx9EcUstmxHNwWd9i60UiMaPbThRKFvTk7D8gIxCY4_nW0ZJHTqZok3k9KRGGEN7DCqC3PvE/67mpjw1wep8v4b9/8.+SR2+XDD.bussidmod",
+         "link_livery": "https://download1512.mediafire.com/pediu4lqzjfgPc1V5F5vVVRW0weAz9_C1PTOfdV0sWppMPyjvXm5o8L7iGWZaZqWjhl3rcngxcGUXwgGXCMx42VZjnixwFLx22cHrTbx-UWmBN74jnzS-B0mPH-EHxq0cS905x8VUYV1UI9pkYs9N7cxNbmXnMPBdHVNCFd0VLLbBgQ/y1wiqgahb2khzb6/8.+Borlindo+SR2DD+by+Blahbloh.png"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Bandung Express + Penumpang dan Kernet",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/04/Screenshot_2021-04-14-11-23-39-26_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2390.mediafire.com/8kphkx8wfolgBAQNjiR1R49iYXnf8YtjzmNmFcEb5AW_bplb0MaITo0iVrLncnKvEVaBM72CgYLB1E7j5rMQyH6bhU4CK8dTf4Lu11QkT71j6ae-vVKHD9SailzXwFFmArQTMDM4pU-2skLqJjcVUSpE7Yle9vNtow6bl5j-dg7mkCw/ccfisu6dk92upkx/3.+EVONEXT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/qyleo0ogbkltn7i/3.+Bandung+Express+by+Blahbloh.png"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Sempat Star Tronton Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bussid-ceper-bus-sempati-star.jpg",
+         "link_mods": "https://download2266.mediafire.com/ez898i1b4mrgxI9gV24G1VbrhM0zWTyuPxDrgCq9Ae0RvzJd4qcoQRI2mfIKII2akE491TcGg8H6bVZV6uYstJxcwT4R5QBXLOgCXDrJALZvkmXMCvfPD82fuIRqQbdUNO4IX8GC1pyNhRoBEfdFAzHu7Yhpsx8Ja7WmOw0qTIqSw6c/4jm06iszbzqy0kv/1.+JB3%2B+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2391.mediafire.com/9aufx74idihgdMZnwlM5pU1kU8GSmH8wieW2uGygLmA9dJeJ9zUDP1AUWw3qfcUT9a-Y6DSX2egVr4Ali5ywLo-wYvX5fLx2zqKqYjJeJXvvLS8xFdzRPnqfmq3FFDjgph6wnrGH20s3CROxapSX7gk3rY4vcv4rSDtCS4GUOV9xLdc/m1ajbgouvbaqe3b/1.+Sempati+Star+JB3%2B+Tronton+by+Blahbloh.png"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus PO Haryanto Ceper Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bus-ceper-haryanto-full-anim.jpg",
+         "link_mods": "http://download2389.mediafire.com/wl02x8tc1oigboLJikB8N1SLBJyH_FYDgllDUUDVZpdDRDgaIKZGW5LRP6LjZ-K7BmwcvNUA49AQ2AXhW2R1hLT1hb1q5B6nf1zVUuksmDfWH1iGPbTWJHjH-6HIMHNA5bBJHPDNTADSND2qbtO2mZTYmtwwNP1VQSGJUCskNnejXBU/yovid1roqnxwjm9/1.+JB2%2B+HINO+RK8+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2277.mediafire.com/0gpzrnc347ygnmIqyuPDHssJYVTnOY2nx52T4QovdYcERPX60DUq-A21cIIbPXCGiRBN2s_zYaRaPNxMtqPmslU5sH1AB4F7XFPCf1q-7cJnVDDWSW04uIW9-MKtdOKugvjFEgTgKdZjOA_MjUvathynfy76oawU0DIKyxgYMDazM8E/r2womwfdjddb67y/1.+Hr+023+Sensation+JB2+by+Blahbloh.png"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus Scania Ceper Full Anim + Kamera Penumpang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bussid-ceper-scania.jpg",
+         "link_mods": "https://www.mediafire.com/file/5vot3vbu3rp8lix/9.+SCORPION+KING+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2265.mediafire.com/q1lwyjjan0ngFskm8xMNyDpcZLWo4vUl64sstXfgPdZM5sSFsqax9zE0PnO97bqXsoEicOWNc6HLaKHcs_AZi2yao_VMG6SNKJGI8DE82BNv21QIuM-k4dDePV-JfHZs36Ojq5Y372N_skRXXIf0aJK8CfMdUDUntcLzfMnhrJItdDQ/c42kdl6v5puo7n2/9.+BEJEU+RAINBOW+BY+OKIN+HAPPIER.png"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus SR 2 Sudiro Tungga Jaya",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SR2-Sudiro-Tungga-Jaya-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2337.mediafire.com/1u4zy2mn172gAnZ7EnjSg92hAxk6TINSuEqpNie4MOQxXc766GmJYiPn3Zn7aombTwOoLsUeJQW3y8IQAMUlPNXpWrt2Ajxyeg-Ws5W-DlfCRWn8FP1qHLD2FvYDzdaM6-tVD6QrueM5ONTU74E-nrPmZjGHE6g0MdZlUlVHegWD2Tw/8w0gryt1v2d6cp4/1.sr2fc+bagasi+full.bussidmod",
+         "link_livery": "null"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus JB3 Scania Jernih",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-JB3-SHD-Jernih-Scania-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2391.mediafire.com/jnro6umslysgQoNGxYSLtnLBNo1Q8htjSB2XClE-kGbryRlj0KB3S0o2T1jIcqyfIYE8PjnA8dna9YnUWK4QQeZJuBaLZVpQR18jssYD8Dn-zsiPhc4ovrVEgKwvVaT6eu4czZf2lnr_1mLg2rfINfEw01g25m-iS5j5dkLG1EnzIWE/znky7fweih6njvh/2.+BUS+JB3+SHD+SCANIA+FULL+ANIM.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/seo36hc1nbi2j8w/2._STJ_Jenna.png/file#"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus ALS",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bus-als-full-anim-scania-bussid.jpg",
+         "link_mods": "http://download2391.mediafire.com/5xvws7ygm1zgNVMQ7-cNjiCUZ0WuPS2Tf1kvPOtCefsaetcefO_HTIZ5iBrIRqn_85ld46b2GEDAPXEzqjglBDUmgcpZ4NP0f_8bt-eIG0weWDMVVQ3EzLiJBWwfctDCWexht8UVKDedXAS2xpTgzJxJX_2RCoJRvI4PHeFhbJ7qpxg/hnz9yzgcs9v3yzk/JB2+SHD+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2388.mediafire.com/lshvkgg8scjgFbqUZ8GwEVqAz3lZ6cwTWKlO2IJfj0u-lPmAiZzig8qcxqd3d0E2Hib4kdmPNKG38Bp7p7oyPATPU4-UXDcZDdnA3eVJzqHLNhr_oyLFFy3Us2dc1DsdEiLATN9C-D-_1gVqM7SC7iAczH7i0S-t3fgGh3Zf0_f_oqo/vwyb191zq0kigta/ALS+JB2+SHD+SCANIA+TRONTON+By+GARASITUBE.png"
+      }  ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "Bus SHD Mira",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SHD-Livery-Mira-Full-Anim-Super-Jernih-Bussid.jpg",
+         "link_mods": "https://download2393.mediafire.com/2f6zxx5kd4ggCIjV5wZDPgjRN-w276_uMfNHa9oJuzmmIlF192kzNxD16mTFV5_68-QBWHolZdKnjUtmnqGd4UV5zq9FiT6fwqzk2J_5HzMDr3uwJ8tzBubPn6bl7d5_FAglMEwaz6bKXW4BUpkyCe-LFllug36k2Eg1i3rEvanzsKw/yt9knl5cttp53m8/3.MPGTmira.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 2,
+         "category":"Bis",
+         "title": "New SR2 Double Decker SAN",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/361.jpg",
+         "link_mods": "https://download2293.mediafire.com/kx9m2qerey8gtNghYAzzALVHzUNPSqYH7dfJCgogDsXvFXnhMqJijdD466pSBWRWH14anhuVeQlUTclB_DLFc634HNtVuR5ywn76ZFDvz5Xcd8V-QeibQsTROocxGIakTJ6-k57HiiXHUoQtzOOJjeyOVDtqqRARl2cGzbwow3mW_as/r52mr020dbigb22/NEW+SR2+DOUBLE+DECKER+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
      {
       "id": 2,
       "category":"Bis",
@@ -363,7 +651,120 @@
          "image": "https://media.thelastsurvivors.org/2023/03/Hino-Dutro-Traffic-Molen.webp",
          "link_mods": "https://download848.mediafire.com/6wybazi7cf7g7gxike9Fqyo8LbqPLIM6aMzxl2tH75vuYZHFXCLbQmrcqHdZBjuF94mLTjFUcYEhYT9u5qmkSCuPU5VLY7bLLalbO7Buofw5pLytNERx05KD10jGgROTd3HUEPDL_TNj_AOGLa2cB3-KY5qCNtmp7XSrTC69PYeTwA/ay10j425wutc5cm/traffik+hino+semen.bussidmod",
          "link_livery": "null"
-      } , {         
+      } , 
+{         
+         "id": 1,
+         "category":"Truk",
+         "title": "Mod Bussid Truck Hino Trailer Kontainer Full Anim",
+         "image": "https://modbussidterbaru.com/truck-hino-trailer-kontainer-full-anim/",
+         "link_mods": "https://www.mediafire.com/file/07daqjmzxxb3cr3/HINO_TRAILER_SHARE_BY_JODS_TV.zip/file",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino Trailer Full Aksesoris + Muatan Berat Crane",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/05/5.-Photo_220523024957.jpeg",
+         "link_mods": "https://download2275.mediafire.com/wpns8ajo9zjgEJZS8Nb0C72rC8mes8hGRd3EoFvcSUXWJWW0w6Co8uyszTp02oix1khU8SI-ZLo9r8Mpjt9H4Lb_MmZwYWMPEpti3lDDjx-kSaechkgBCOuJcYq1m1M0Lbj_xNyh9OXVNnnY83Gc-S9BcTspTYZAVSldEETD1OPbS4U/mrc8fxqnfe7exrb/5+include+livery+MOD+BUSSID+Truck+Hino+Trailer+Pencuri+Traffic+by+Budesign.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino 500 Trailer Modifikasi Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-11-10-52-28-91_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/9lu5x5qccj9ghGAHRu7M5wy6PnSpPCSpS5gXuZLG96mOQ-INovq-au_uOauH96xHZ-K8njEjpNo1NRbJnDkeOcS0mzvN_y5uWJdrjjTqJATOCFRMV0eSWmJMWo2Zp4VBC-2HDG4e7U8ILPmKqf-PQjOtVz4c1rz9x0fo3rMyusZSQwk/j5aznx69p3bptx1/3.+HINO+500+TRAILER.bussidmod",
+         "link_livery": "https://download2393.mediafire.com/sed5tgcwofpgpkMt13dCAdRyOE6wonvCeelHwaGFm13Ddf3jUvbfK_Uy9RZxh2qZCUNyaq0nEyvYyn-_9QKoRG1q5g96h4COsHSPhgpEduxiOBd08HArxwXuwNWiSgq67EP6V8oJME_cl8qF8EYm20d5K6TgZQEF4o1t6jkFs0yCjBs/l12zo05gpkie2ln/3.+LIVERY+HINO+AD+ISKN.png"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino Trailer Siba Surya Terpal 3D Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-14-20-04-29-26_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download1323.mediafire.com/ujuxajzbe8lgcOdV8twEvOH7QqD3zrNuZTDYz5AtWkmw0CIqJzIAeAkGum3oWuhciXffxYLWdMQquhJVlgMLyA0tITh_mSSx4xNSSjBOJS6I0vnMVMaMrzxBe02YcoyPMikWAMM6h1jkiEZ7S1xJbxVc8DnUEETDKD_oi8qcQT2HSro/1iuws1wmhfepf6h/HINO+TRAILER+SIBA+SURYA+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Trailer Super Panjang Muatan Alat Berat",
+         "image": "https://modbussidterbaru.com/truck-trailer-super-panjang-muatan-alat-berat/",
+         "link_mods": "https://www.mediafire.com/file/9kdycp0esbjapg7/TRAILER+OVERSIZE.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino 700 Trailer Logistic",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/mod-bussid-truck-hino-700-trailer.jpg",
+         "link_mods": "https://www.mediafire.com/file/zc48h7ndbnv7r8e/Hino700_Trailer_Logistic_By_Bonfire_png%28ASB_Team%29.rar",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino Muatan Mobil Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-11-10-53-37-62_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/vxyc5prv9aqg818T1VWWwmdoC_6INfvDFx3xWzymqDUXnSBOEgTDoIHpcmaxRpr0z4NqH_UBImdG7XJQUdGr6UKG0ncNkSEYn4bAUy8TxODwGF5VjGu-yLFUOZdh-uHJkYmQCVIv_mAova6SB5GR9QDdO6n_8tAGbYXudCmjLK-tdqM/6scnlc9xso432me/2.+HINO+TRAILER+MUATAN+MOBIL.bussidmod",
+         "link_livery": "https://download2285.mediafire.com/sdu38z72drcgn0wvvlPI4OWCoodjOixG1wiLDbNUUM5IqOLDUFXfgCNpL-s1HtsBUFes8uc9BEPySzvzONmwbtRHHbjsqaee0aL56In-K-e3i2rnQbkVZ4fLThiMaLJB3Y1-Fq3MlPdwfZEByyXNvDJ9mUw3Rxonbh8g9Zne58GJXyo/vykmskfyxzx1mww/2.+hino+pely.png"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino 500 BUDESIGN Full Anim",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-BUDESIGN-Full-Anim.webp",
+         "link_mods": "https://www.mediafire.com/file/4ltzerk0uyc4rfb/hino_500_trailer_new.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/a11wl2axm2vbsh3/Livery%20Wahyu%20Abadi%202%20Dhe%20Adi.png"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Trailer Hino 700 Chassis Flat",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Chassis.webp",
+         "link_mods": "https://www.mediafire.com/file/rkkzqqbdhvxgfoh/Hino_700_Flat_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/08c4ezmbx8wj7o3/Hijo.png"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Trailer Hino 700 Tangki Tanker",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-700-Tangki-Tanker.webp",
+         "link_mods": "https://www.mediafire.com/file/r21d09ovb4wvqu7/Hino_700_Tangki_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/v0iwbsvke6ykiqv/Putih.png"
+      } ,
+	{         
+         "id": 1,
+         "category":"Truk",
+         "title": "Trailer Hino Dual Face Tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-Dual-Face-Tangki-Pertamina.webp",
+         "link_mods": "https://download2266.mediafire.com/vcftcutqsseg7mq4HqGogKrlHYr8PdrnJkzbyEfHBZ5x91KVWDv6g_6dKeZ1nqmc3N6WKd2XeFYkk7cu8gCZkerFjPPPC5wbdA5lTLwVFF57sqzgqdRBPGqc7jSU2-G5QuqsAogc2oLTP3XKf0WBLP9kOfUVlqE6xCQ0b7B3dB6eQAk/hudgzwttuv87jk3/Trailer+Hino+Dual+Face+Tangki.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {         
+         "id": 1,
+         "category":"Truk",
+         "title": "Truck Hino 500 FG Trailer Maersk",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-500-FG-Trailer-Maersk.webp",
+         "link_mods": "https://download2346.mediafire.com/z3f9zqtlt8sgE-7cJGfKpx1zhYBvxYvNna3fzuYCtJ-LCVsBAz-lGuCVy8La9-g_T9kCpDd8am0lSm_gK6smip0y1WoHK1Gqi-gEd2wRfoy1-p2ObEZpL7okSCodHZvSKM-e1VyRVgtPOEL-nSSbf6tA1qKPqDLmUk_9fCXC1dH_j_o/i9zyzqcofvoh1l1/Hino+500+FG+Trailer+Maersk.bussidmod",
+         "link_livery": "null"
+      } ,
+	{         
+         "id": 1,
+         "category":"Truk",
+         "title": "Trailer Fuso Gandeng",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Fuso-Gandeng.webp",
+         "link_mods": "https://www.mediafire.com/file/sxw9l2y8hd41skj/FUSO_GANDENG_V1_ad_iskn.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/2kxwasw1qvzxn57/AO%20FUSO%20FN%20GANDENG.png"
+      } ,
+	{         
+         "id": 1,
+         "category":"Truk",
+         "title": "Mod Trailer Hino 700 Peti Kemas",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Peti-Kemas-Box.webp",
+         "link_mods": "https://www.mediafire.com/file/bvetqbrrpy6pgb6/Hino_700_Peti_Kemas_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/nvs2phn0lvhbp09/Hijo.png"
+      } ,
+      {         
          "id": 1,
          "category":"Truk",
          "title": "Truk UD Kuzer Dump Pasir",
@@ -973,7 +1374,118 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1749.jpg",
          "link_mods": "https://download2389.mediafire.com/gt74arqr6etg74N5mfSi0FcOKIkkFTCR62_bcBNWwPGUekPzaJxFgP9_l1P0TW3Yw2ch8wBWiWq234dOUKi0RMz-718r0BRt2nJ4yiNEyCQzRiTV7iyVXVzhm-AOAXNYlb4pJ-3UdckbOo8ICv9b7j4HxPUJASIWooxcwVXyoUYOzA/rg3yvh71n9vjedl/Angkot_Modif_V2_HSD.bussidvehicle",
          "link_livery": "https://www.mediafire.com/file/2r749cyya4ox7f3/Angkot_livery_1.png/file"
+      }  ,{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Pick Up Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-10-01-59-85_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2393.mediafire.com/ji6i0oizp95g5E6ZQxff3oNrNEJIKumf2plE6-mrR9Wi2mID2mShaQCWvicdwwVGyn-qdvfLyIQAzwEKVMjRFj2sO_ti0dYhdQqC58O8D7XG9Ii6-6Jp4LuxOtqgLWl2qKI6bQsBNJZqeczUcErZFRuvcAA-Xxlw8ss_AePtn_WynFk/ivdh3f35f44gtr3/L300+%281%29.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Angkut Sound system",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-soundsystem.jpg",
+         "link_mods": "https://download2391.mediafire.com/vr9125yit1eg5Z3a0YlQiY8eY_Omh8yZwd8u0MLpD9x0F4gIlXdIc6d-25ryiYlZat6-1aVawrVIMxl9nOqeavhtzYgts5OUP3XEwZDRzBftOnm17X0pNFx7_TzQ2ABbB02PtI-ZHTxrLDk8y89FDu17WfRyccxW83HT1CepCj2cvDs/dlolh8h0abxtc7r/MOD-BUSSID-Mobil_Bak-Pink_.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Angkut Bedug+Orang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-bedug.jpg",
+         "link_mods": "https://download2393.mediafire.com/2ne66rfcqslgLCx0NYCnFrvwcD0FDK-E-6687FVV9LlGavvYVHcNvBpnSOJlH2rxpxNZJXA9v1Z3--BIRft1RW0V__reyUdiu-Jn93rRGQ9ho1ROpG8y4ivHE9IGw928mS4K82cW_AVSz4B1Tqlo84IRi9hpbxsq1Ro6qmhaMavgWEM/fbtmvf5g96v24i0/MOD+PICKUP+MUATAN+BEDUK+BY+AZUMODS_BASSAMAZUPER.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Muatan Semen",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-semen.jpg",
+         "link_mods": "https://download2389.mediafire.com/5aqib4lx84ggtdaS9yQI6CISKbnEjufavyFcXbSgQF45W93A-JiDSk6yhM9T9AWWwaSxR4rPIDoBkNe2Fp4t0nhwiwzMhhE02M10c9JGOT5dMgcCFlnh_A6_iFZioxcG5IhuSyfXI5TMZLBXp9aWezXpBPtKzE_vUWXzqTsY-XHtkFc/ejtptc6v4rb3m5v/Update.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Tribal",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-tribal.jpg",
+         "link_mods": "https://download2275.mediafire.com/zmsi7nl3r5iglyc84kAA78IM7_jauo3xhmyfB1pjd_LE4urWDRvXOAMDlUg9wQ40-2VInulqH_gxbqCL6ANqM8WvqYWmLMGgMcVK2d2Gqp7RGLjCgoG0hwlNpkAQPXth42jcZpIVEmzGt1OZ29peWOw5_Z9o5enY45mI2qvQL3XhwoI/mxs6hlfbh3hfxit/L300+tribal.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Mobil L300 Angkut Drum",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-drum.jpg",
+         "link_mods": "https://download2264.mediafire.com/o4mx1z6wrodgLYCcAZd2aRZOC-RtbVIk0QxeCt5PZaxLwFZ2GNqoza2Lm2mBshSLlDr4FESQ8KKCZSylOJV3GhfbbQams0NLU-OLu-3x2O-xdlgy1t3BDeuNa-NGbbywRcC3Pl4_qpErEhy2Ojz-_JThoRJBpGdmvsjfb5LAzSVsirY/gavp8aj1s0au3pq/L300Drumm+--.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/676.jpg",
+         "link_mods": "https://download2389.mediafire.com/0vpk22ilouhgHGqo111uAs1W20bUnHd8nLXDXmKOX9CCtPMlqowcob82QLM8MUuRbwxgWrSDqjhkpW4t-D8ooUHKaheW6CKaMIqcNQxyaO2m8OhotIYszaopT_QNyA1PZzbLe8tNqiLJzzFuoyrzMfpUbDwKpJopkLQie-EI6plfDpQ/8yd18htvv1xbt9i/L300+Souleh+Art+Muatan.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710692/246837/f60727993744567d0be0f83087896115/3-livery-l300-waroos.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Rotary Gayor",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/677.jpg",
+         "link_mods": "https://download2344.mediafire.com/qa7sjp8q22sgnIGsxTMEAKaqAQQKblKR_2oV4M-CQFaXXskSluLJaxzLhIY6mWOpI6qX1vYEnzA978FBhSB9Ao3Nb4V1M_hiDZUul_NVTJpPRbCII9khotC-6iQ3cyeHIzphAWwNPfXAwior18AD7RCiOj3BAStlCxsGa5lvGNUFHTc/vhdam0b7tls3cjy/Mitsubishi+L300+Rotary+Gayor.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710695/246837/f60727993744567d0be0f83087896115/4-livery-l300-rotary-hitam-2-.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Muatan Kayu",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/678.jpg",
+         "link_mods": "https://download2389.mediafire.com/fer32ls9wn0gCbQQB5xFICSDQMzMfhEcKp34icHL8OhG0mu08QvRI60VcXZJBqtFsQmvfuAL9ka5l_64VK_j-sKgjjM06Wp6tDgliX-8LfHgVYApCClbBZXfQdAQ3tLRe9W47edD8ypfE_t6DgZasJy2I2CyOLz3BZKrurnz_WSXImQ/paqydhz8ialkery/L300+Souleh+Art+Kayu.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710696/246837/f60727993744567d0be0f83087896115/5-livery-l300-bobo-gatels.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Muatan Bahan Bangunan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/679.jpg",
+         "link_mods": "https://download2391.mediafire.com/krrytss65pag7-9gLll4Jsufp9NqY-fb7xkW0PnCLuH4qL0Q1aZrsg5Y1-fJzVXTACHpshn0G1qjHu8W2Gb1Bap-ApCXvU2kJ7ePDj0Z_nXP8iP4iYA3rp3v07dzlkRjFaFwRCcFr0GNTVXNfMELpOp1UXfml2EsG6Q6uq8sku2UG1s/93fajqfapvoge01/FIX+L300.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710698/246837/f60727993744567d0be0f83087896115/6-livery-l300-via-vallen.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Full Modif Extreme Roda 6",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/680.jpg",
+         "link_mods": "https://download2273.mediafire.com/lqo7f6549amgHhgQw2U87nLdY_8PJEXvqKOTEkwpSinTgOE9-BlSgt24DiJw-3kg0YvAjHePi94XxggMIXn3XXzdEXWZ501cbVQDDG6afUEEcbd3gsuP7z52kwtudDvokhUvZL2lvXh9nBYvfl4MTm0XHJ4ys_hyfDJCxB6xkNm3pyI/0jynx1oi3hkyou1/L300+extreme+modif+by+ntuz.bussidvehicle",
+         "link_livery": "https://sfile.mobi/download/710704/246837/f60727993744567d0be0f83087896115/10-pick.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Full Strobo",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/681.jpg",
+         "link_mods": "https://download2389.mediafire.com/bgpu2c63folgW3cD9Ca3lwJw9XyvMEpZ7iBuiI3i02OogHpc_yaWl8cDd7Rml5oZP0hE3P0Qv66fQX-IW7BxdxQLdQF8Oituqtl2Q-4GYp3rTR7Jc8rr_byboYGwlrqvML3OYQVKVTC4MLNFe3H21U0dlDZT50kIDTXXIoEZZQWtF80/ogupdlxurzdvx7t/21+L3+Full+Strobo.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "Pickup L300 Rotary Muatan Ayam",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/684.jpg",
+         "link_mods": "https://download2389.mediafire.com/3pbhm87o431gP6CCo1o0qWKmXmG6VWJp9Kf5pIja842LomhV2YlFNSFz864zIEt5r0cD92B7vtJLIN82kU47ejdEjjkaWpXCBSV3BMvII2QT2Za8_lw8czCKNI2nnorzWb6rQOzbdy-v0DVvQHPDK-Q1TT_wo9bZmupQpN5Pp3OYO0c/35ynuejprjyh769/Mitsubishi+L300+Rotary+Ayam.bussidmod",
+         "link_livery": "null"
       }  ,
+	{
+         "id": 1,
+         "category":"Mobil",
+         "title": "L300 Custom Livery Body",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/690.jpg",
+         "link_mods": "https://download2390.mediafire.com/ij577457n4sgy4XkxZ_C6Hp_c7AhP-tyaXj-EPjtqWAr5AgniJGp5m_0rmxzY0teFi7wxbjWccHS8h55Vt4udtykBOHQyWluMXVe1k2n_rJ_2sA1NjScPAMQ1oyHNnZ9_MWHQjs-E4ed7hDXwLTpmlPP5qTvH98P8NWEvbOqssL6EPc/bdgzrvrm8i25vnx/FIX+L300+muatan+tanpa+kernet.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710701/246837/f60727993744567d0be0f83087896115/8-liverycolt.png&is=609fd2e5db475743f50507ab736b17b7"
+      },
  	{
          "id": 1,
          "category":"Mobil",
@@ -1163,7 +1675,88 @@
       "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
-    } , {
+    } ,
+     {
+         "id": 5,
+         "category":"Motor",
+         "title": "Motor Honda Vario 155 Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-24-20-53-16-47_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/1gcyw5nx30ug9rP-w39F-uw68R6fb3wW2Pg2vcZ26fF26C0am9MQZzYmqOCaeP44YOnV3bJipOhMRuZUTHqi5OhIjrrKfmD5Eq7aOCRMrm9DNumJR4WKCRTrdC71b3qTdqgmkfDYRqFmCIrEO3Zqc2tEzeLLXLy1RgUEFCwODkawO2c/8xltpmyh6i2res1/MOD+VARIO+150CC+KNALPOT+MBERR+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "id": 5,
+         "category":"Motor",
+         "title": "Motor Yamaha New NMAX 155 Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-10-01-24-75_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2392.mediafire.com/o7lntlits5ugRTfr31-vgSK63XH2iWESXfrjSm02djmsoiWwp-WwRRFoJyjzdzhturwldS3EpkEu1qxdc_8ZQtmFA4EPvA9SJHYZr0GQY20nKsrK6tTqk-SrTgscyTda7J-WxYDSy3DbvFhZngokaMr4UF0AWZTOOWKtRGT_QFVYr_A/y5g39hxuxloec70/MOD+NMAX+155cc+BUSSID+FREE+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      },
+      {
+         "id": 5,
+         "category":"Motor",
+         "title": "Motor Honda PCX Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Photo_210109110959.jpeg",
+         "link_mods": "https://download2390.mediafire.com/4ibjju5ehebg4iJ3JYbZAQRbYAC_pDwFeVMMDwl2iI0gD3e5A9AGxWUPAA1t-MACT9tTf6BvjS6nwLcbZ9SKikODB0r4w5C73N3WUEp0cLqQ0xybeGQrTqT6Wk8R_Ac7hoehH_oY7TWK24lGrS4kRY6OGUOtiq4hDQWnH--kjcikDKw/vnoawsdnktjp2z1/HONDA+PCX+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Motor Honda Beat Original",
+         "image": "https://modbussidterbaru.id/wp-content/uploads/2023/02/Mod-Motor-Honda-Beat-Original.png",
+         "link_mods": "https://download2393.mediafire.com/jg7vwnnva6kgSM-bSR1awfEt4drgvGGiTlEbk2dIg0z2A4t8UIv5NQ8__LU4sSo__hJka3_qVrHscywPys_dMO583v_Xk7sETaUlTPjsn06Zkr-9kvzpbhuePOeXaPfmzNBusitXiYTCUyMcTj0YjhpF04g6VWzKdsd4tW6KuZBnIB4/l1briehja6oyj2k/MOD+HONDA+BEAT+2020+BUSSID+FREE+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Bussid Vario pink ceper",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/016.jpg",
+         "link_mods": "https://download2389.mediafire.com/bfvxh92u0yogULAN8VCfmpEw0gVYNUv3GNKpkbLiUAJ3ssBl8AllBaiV3b6UBwqwylqnrcJwjsptoPRfJiUYe9FLI4od3I-BAfbmMsckd4V1zQtAPa9AD6hSmaS57HolrL66bIF3ivvWwCQPLN8ltobtmY_99VqHivF8CtxsACDzMYU/uqhy3ltt5oldrc9/MOD+MOTOR++vario+%282%29.bussidvehicle",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Vespa Matic Fakboi Bussid",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/102.jpg",
+         "link_mods": "https://www.mediafire.com/file/uqhy3ltt5oldrc9/MOD_MOTOR__vario_(2).bussidvehicle/file",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Mio Drag keren full modif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/106.jpg",
+         "link_mods": "https://download2392.mediafire.com/5di7t5c48nugq0weWNFCsOtEnevdsAnT5F5UUpxWeGMTEWpoEa7mifUVO0Z3dpCWukMA90K4XwmXPJrZz7v6OZ1Ah8LIMr0K31JOA5CJWsvb9uPvw-n8G_4T4_mFf0nD3KvTqJM-di4men-nDpDmeu-LRtnyOTRyw_l4NeX8EUpck00/yboc4f6ekxz4gwf/3+Mod+Honda+Beat+by+Azumods.bussidvehicle",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Yamaha Aerox NGAB",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/117.jpg",
+         "link_mods": "https://drive.google.com/file/d/1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu/view",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod bussid Motor mio mberr modif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/116.jpg",
+         "link_mods": "https://download2389.mediafire.com/cfg2q0rx0ljgoTaJ6S7tRyZJszXgk5GU4BywPcRyZcZpKAeGYcNe2zhpvmgdTHmo3UcKrColP6p-PSr-k5v0zposnfHEFVY69xOhtQ9_dLfU9l_8PLaDslguItbHexei3ACPRSoGu7mIZONaIst9AyAII8vCiGtotECwcB0cyxoI_R8/nq5um6e41o6boqy/Mod+Mio+Drag+By+Azumods.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "id": 5,
+         "category":"Motor",
+         "title": "Mod Yamaha Gojek ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/05.jpg",
+         "link_mods": "https://drive.google.com/file/d/1QoPVuLDz2eNsiUoISxifQ1O9czdWmySX/view",
+         "link_livery": "null"
+      },
+      {
          "id": 1,
          "category":"Unik",
          "title": "New tejal dj mod download ",
