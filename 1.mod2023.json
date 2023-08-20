@@ -2606,7 +2606,7 @@
 			"link_mods": "https://download2389.mediafire.com/1q170rlqns7gdHNdGJUCmZbsIKku_QdfYNQlGXReXiKSk1RTQxRahmLZJ0OMXVk__cziHk-OTMwEk9iSb5xSMqVCc2Cn3weYICZ6JEj-LRwOori_puXwlpbEEk70Ufsc6w6D8FNmv5trbZy3DWKopWxAjYi8GShoB5F2DFyyu3n9tw/ej4y5c4nytb45a4/Truck+Hino+Lohan+Muatan+Kayu.bussidvehicle",
 			"link_livery": "null"
 		},
-	  {
+	        {
 			"id": 2,
 			"category": "Truk",
 			"title": "Mod BUSSID Truck muatan Sound System Riswanda",
@@ -2985,14 +2985,6 @@
 		{
 			"id": 2,
 			"category": "Truk",
-			"title": "Trailer SCANIA R580 Longline Double Peti Kemas",
-			"image": "https://media.thelastsurvivors.org/2022/10/Trailer-SCANIA-R580-Longline-Double-Peti-Kemas.webp",
-			"link_mods": "https://www.mediafire.com/file/qn37re1qol2yhli/Scania_R580_Longline_Trailer.bussidmod/file",
-			"link_livery": "https://www.mediafire.com/view/moztiy14evi9u03/r580%20template%20livery.png"
-		},
-		{
-			"id": 2,
-			"category": "Truk",
 			"title": "Trailer SCANIA R580 Hanya Kepala Showtruck Contes",
 			"image": "https://media.thelastsurvivors.org/2022/10/Trailer-SCANIA-R580-Hanya-Kepala-Showtruck-Contes.webp",
 			"link_mods": "https://www.mediafire.com/file/trke120smosd7ar/Scania_R580_Longline_Showtruck.bussidmod/file",
@@ -3105,7 +3097,7 @@
 		{
 			"id": 2,
 			"category": "Truk",
-			"title": "INDIAN TATA TRUCK MOD ",
+			"title": "INDIAN TATA TRUCK MOD",
 			"image": "https://www.mods4u.in/bsi/img/2020/INDIAN-TATA1589047263-BUSSID-WWW-MODS4U-IN-1.jpeg",
 			"link_mods": "https://ab3.sharemods.com/cgi-bin/dl.cgi/q3y2nsz4vmpaqelnezz7g6vxdawylm2zlyhwyxqziyg6bnzjwp4uoja/tata_V2.bussidvehicle",
 			"link_livery": "null"
