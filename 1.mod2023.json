@@ -2060,7 +2060,6 @@
 			"link_mods": "https://download2277.mediafire.com/4d2g9pb28byg-tcw7XcnTw_PHXOBaLLPSc6n48YhrkarOZj5GuHqQUnC9c53MxaE-b-h5QpvsXcDA66yPSmhZdR-FlN1iJbt9WQVLtOFU3vBsLYUOC8HzClb3VdFBUfivpiagfBPCo-hQFVPoXAfKQdC5iv21dfNwA2l9GDvl78y/tal1e6srxxeivtg/MOD+BUSSID+Truck+Volvo+Globetrottter+%E2%80%9CPertamina%E2%80%9D.bussidvehicle",
 			"link_livery": "null"
 		},
-		
 		{
 			"id": 5,
 			"category": "Truk",
@@ -2608,7 +2607,7 @@
 			"link_mods": "https://download2389.mediafire.com/1q170rlqns7gdHNdGJUCmZbsIKku_QdfYNQlGXReXiKSk1RTQxRahmLZJ0OMXVk__cziHk-OTMwEk9iSb5xSMqVCc2Cn3weYICZ6JEj-LRwOori_puXwlpbEEk70Ufsc6w6D8FNmv5trbZy3DWKopWxAjYi8GShoB5F2DFyyu3n9tw/ej4y5c4nytb45a4/Truck+Hino+Lohan+Muatan+Kayu.bussidvehicle",
 			"link_livery": "null"
 		},
-	  {
+		{
 			"id": 5,
 			"category": "Truk",
 			"title": "Mod BUSSID Truck muatan Sound System Riswanda",
@@ -3584,7 +3583,7 @@
 			"link_mods": "https://download2391.mediafire.com/o01wvz0t07bgVzqAqGxqCxMQ6VtC3CPRlXnH8G34byIhQNh5XCECMSJA3ZdSM9bE1J1P-soYyMyms_0KpA-Pbv8GgsTUgZ9FTbn4NpSMajqkkAeHTSoufZ94JGoHQ8yzgbu4DYeECikUC8ek6bI0n8GtPK6NDlKuBkIXftxiI4qPSQ/2aobbw3ophec8tg/2.+ANGKOT+2.bussidvehicle",
 			"link_livery": "https://download2291.mediafire.com/jjgc1z49huvgFnF4BvUQM--yh2YDX-bItPEcv_sKs8de5X6dyjXaic7HAwdV31b7H_2dvgHuVqaeoFw-xKGYqmEcxL5RJrsw5lVyFfcanayasryxmM9ajVFt7s7q--gCQuSGh522RtwVhValRkXnBULJkWuLGztptedk4M3ucgtdxA/cwefq9dw4ygjr2l/2.+ANGKOT+MONSTER+ENERGY.png"
 		},
-	  {
+		{
 			"id": 5,
 			"category": "Mobil",
 			"title": "Mod Pajero Sport Dakar 2015",
@@ -4105,6 +4104,8 @@
 			"link_livery": "null"
 		},
 		{
+			"id": 5,
+			"category": "Mobil",
 			"title": "Honda Accord",
 			"image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-13-19-34-70_5d347d05ff406c08e59fd63f6905b8af.jpg",
 			"link_mods": "https://download2291.mediafire.com/c8wd27bb4pqgymcHfdegooIL1cizoZBv1ocxsSPLccubqlza5hWwT_4tv97UM5CmFzL-iQhY-xQGhmvrHRF5Ia38Pl3kSA05QgzrbPwEXilOqkvmNUFK4UWc8D5TDAFXGYNt1ACqw8pssgHuetm-s16qyGJKd-tkvvIxpbJlnqkP/j0il8bvqdnh5ws9/HONDA+ACCORD+SHARE+BY+JODS+TV.bussidmod",
@@ -4447,6 +4448,8 @@
 			"link_livery": "null"
 		},
 		{
+			"id": 5,
+			"category": "Motor",
 			"title": "Mod Motor Beat Matic Drag",
 			"image": "https://www.stkipmktb.ac.id/wp-content/uploads/2023/05/Mod-Motor-Beat-Matic-Drag.jpg",
 			"link_mods": "https://drive.google.com/file/d/10s36QxijQncLRkYwmOqhhEihBVNhnx3E/view?usp=share_link",
