@@ -1987,7 +1987,8 @@
 			"image": "https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-28-09-46-58-95_5d347d05ff406c08e59fd63f6905b8af.jpg",
 			"link_mods": "https://download2391.mediafire.com/o01wvz0t07bgVzqAqGxqCxMQ6VtC3CPRlXnH8G34byIhQNh5XCECMSJA3ZdSM9bE1J1P-soYyMyms_0KpA-Pbv8GgsTUgZ9FTbn4NpSMajqkkAeHTSoufZ94JGoHQ8yzgbu4DYeECikUC8ek6bI0n8GtPK6NDlKuBkIXftxiI4qPSQ/2aobbw3ophec8tg/2.+ANGKOT+2.bussidvehicle",
 			"link_livery": "https://download2291.mediafire.com/jjgc1z49huvgFnF4BvUQM--yh2YDX-bItPEcv_sKs8de5X6dyjXaic7HAwdV31b7H_2dvgHuVqaeoFw-xKGYqmEcxL5RJrsw5lVyFfcanayasryxmM9ajVFt7s7q--gCQuSGh522RtwVhValRkXnBULJkWuLGztptedk4M3ucgtdxA/cwefq9dw4ygjr2l/2.+ANGKOT+MONSTER+ENERGY.png"
-		}, {
+		}, 
+		{
 			"id": 1,
 			"category": "Mobil",
 			"title": "Mod Pajero Sport Dakar 2015",
@@ -2852,7 +2853,8 @@
 			"link_mods": "https://www.mediafire.com/file/8xltpmyh6i2res1/MOD_VARIO_150CC_KNALPOT_MBERR_BY_AZUMODS.bussidmod/file",
 			"link_livery": "null"
 		},
-		{
+		{ "id": 1,
+			"category": "Motor",
 			"title": "Mod Motor Beat Matic Drag",
 			"image": "https://www.stkipmktb.ac.id/wp-content/uploads/2023/05/Mod-Motor-Beat-Matic-Drag.jpg",
 			"link_mods": "https://drive.google.com/file/d/10s36QxijQncLRkYwmOqhhEihBVNhnx3E/view?usp=share_link",
